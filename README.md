@@ -83,10 +83,6 @@ The objective was to prepare a **clear and concise executive summary** that:
    - Created comparison charts for total and monthly sales
    - Organized visuals on a separate executive charts sheet
 
-5. **Presentation & Documentation**
-   - Structured outputs for portfolio use
-   - Saved final results and visuals for GitHub presentation
-
 ---
 
 ## 📊 Results
