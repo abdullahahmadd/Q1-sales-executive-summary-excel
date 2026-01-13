@@ -1,7 +1,7 @@
 # 📊 Q1 Sales Executive Summary – Excel
 ### 🎓 Microsoft Power BI Data Analyst - Portfolio Project
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.q1-sales-executive-summary-excel)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.Q1-sales-executive-summary-excel)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-green)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-orange)
