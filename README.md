@@ -1,4 +1,4 @@
-# 📊 Q1 Sales Executive Summary – Excel
+# 📊 Q1 Sales Executive Summary (Ms Excel)
 ### 🎓 Microsoft Power BI Data Analyst Specialization - Portfolio Project
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahahmadd.Q1-sales-executive-summary-excel)
